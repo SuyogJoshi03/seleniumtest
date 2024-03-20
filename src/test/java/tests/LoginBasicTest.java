@@ -19,7 +19,8 @@ import org.testng.annotations.*;
  */
 public class LoginBasicTest {
 	//IMPORTANT: Please download a Chrome driver and set this variable to the full path to the file
-	private final static String CHROME_DRIVER_FULL_PATH ="D:\\Geetanjali\\2023_24\\CSE_SEPM\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";
+
+	private final static String CHROME_DRIVER_FULL_PATH ="D:\\All Semester Data\\Sem 6\\SEPM\\chromedriver-win64\\chromedriver.exe";
 	//private final static String GECKO_DRIVER_FULL_PATH = "/Users/leonardolanni/Downloads/geckodriver";
 	private WebDriver driver;
 
